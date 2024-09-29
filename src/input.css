@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.social-link {
+    @apply bg-gray-200 rounded-2xl flex items-center justify-center p-2 font-semibold hover:bg-gray-300;
+}
